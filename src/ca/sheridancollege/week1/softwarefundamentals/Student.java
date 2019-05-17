@@ -21,7 +21,7 @@ public class Student {
     public String getName() {
         return name;
     }
-String abc;
+
     /**
      * Set the value of name
      *
