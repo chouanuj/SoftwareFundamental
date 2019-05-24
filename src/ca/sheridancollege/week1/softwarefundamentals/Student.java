@@ -12,7 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
-
+ //int abc;
     /**
      * Get the value of name
      *
